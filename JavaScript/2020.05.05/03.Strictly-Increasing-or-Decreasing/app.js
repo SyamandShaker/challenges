@@ -1,3 +1,5 @@
+// JS Conditions (suite)
+// edabit - Strictly Increasing or Decreasing
 function check(arr) {
 
 	if (new Set(arr).size !== arr.length) {

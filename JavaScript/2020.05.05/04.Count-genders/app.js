@@ -1,3 +1,6 @@
+// JS Loops
+// Count genders
+/* Create an array containing 6 persons, girls and boys. Each person should have 2 keys, name and gender.*/ 
 let countGenders = [
   {
     name:   "Robin", 
@@ -24,6 +27,7 @@ let countGenders = [
     gender: "Girl", 
   }
 ];
+/* Loop into the array and check how many girls and boys do you have. */
 let numDeBoys = 0;
 let numDeGirls = 0;
 for(let i = 0; i < countGenders.length; i++){
@@ -36,8 +40,8 @@ for(let i = 0; i < countGenders.length; i++){
     numDeBoys++;
   }
 }
-show("Numbre de garcons : " + numDeBoys);
-show("Numbre de filles : " + numDeGirls);
+show("My list contains : " + numDeBoys + " boys");
+show("My list contains : " + numDeGirls + " girls");
 
 
 /* countGenders.forEach(function(item) {

@@ -1,3 +1,5 @@
+// JS Conditions (suite)
+/* edabit - Equality of 3 Values*/
 function equal(a, b, c) {
 
 	if ( a == b & b == c)
@@ -13,6 +15,7 @@ function equal(a, b, c) {
 			return 0 + " --> " + " All values are differents";
 		}
 }
+
 show(equal(31, 42, 20));
 show(equal(19, 11, 19));
 show(equal(5, 5, 5));
