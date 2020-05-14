@@ -13,7 +13,6 @@ function show(thecode, title = "") {
   let output = '';
   let cssTitle = '';
 
-
   //CHECK type
   if(typeof thecode === 'object' || typeof thecode === 'function') {
     output = JSON.stringify(thecode, null, 2);
