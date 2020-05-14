@@ -13,3 +13,4 @@ function lessThanOrEqualToZero(num) {
 show(lessThanOrEqualToZero(0));  // true
 show(lessThanOrEqualToZero(3));  // false
 show(lessThanOrEqualToZero(-5)); // true
+show(lessThanOrEqualToZero(10));  // false

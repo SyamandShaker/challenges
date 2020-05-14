@@ -14,4 +14,5 @@ function isPlural(word) {
 show(isPlural("Lovers"));     // true
 show(isPlural("Lufy"));       // false
 show(isPlural("Carottes"));   // true
+show(isPlural("Roronoa"));    // false
 

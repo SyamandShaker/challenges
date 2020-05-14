@@ -8,4 +8,4 @@ function frames(minutes, fps) {
 show(frames(10, 1));    // 600
 show(frames(0, 1));     // 0
 show(frames(30000, 1)); // 1800000
-show(frames(2500, 1));  // 150000
+show(frames(2500, 3));  // 450000

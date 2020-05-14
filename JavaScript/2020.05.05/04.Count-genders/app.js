@@ -40,11 +40,5 @@ for(let i = 0; i < countGenders.length; i++){
     numDeBoys++;
   }
 }
-show("My list contains : " + numDeBoys + " boys");
-show("My list contains : " + numDeGirls + " girls");
-
-
-/* countGenders.forEach(function(item) {
-  show(item.gender);
-}); */
-//show(countGenders.length);
+show("My list contains : " + numDeBoys + " boys");   // My list contains : 3 boys
+show("My list contains : " + numDeGirls + " girls"); // My list contains : 3 girls

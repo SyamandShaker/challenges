@@ -16,6 +16,7 @@ function equal(a, b, c) {
 		}
 }
 
-show(equal(31, 42, 20));
-show(equal(19, 11, 19));
-show(equal(5, 5, 5));
+show(equal(31, 42, 20));	// All values are differents
+show(equal(19, 11, 19));	// Two values are equal
+show(equal(5, 5, 5));			// All 3 values are equal
+show(equal(8, 15, 25));		// All values are differents

@@ -17,6 +17,12 @@ let listProfit = [
     costPrice: 68.01,
     sellPrice: 149.99,
     inventory: 500
+  }),
+
+  ({
+    costPrice: 99.99,
+    sellPrice: 199.99,
+    inventory: 999
   })
 
 ];
@@ -32,3 +38,4 @@ function profit(info) {
 show(profit(listProfit[0])); // 70500
 show(profit(listProfit[1])); // 242190
 show(profit(listProfit[2])); // 40990
+show(profit(listProfit[3])); // 99900

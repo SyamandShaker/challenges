@@ -12,4 +12,4 @@ function isEvenOrOdd(num) {
 show(isEvenOrOdd(2));   // "even"
 show(isEvenOrOdd(5));   // "odd"
 show(isEvenOrOdd(-8));  // "even"
-show(isEvenOrOdd(-17)); // "odd"
+show(isEvenOrOdd(-15)); // "odd"

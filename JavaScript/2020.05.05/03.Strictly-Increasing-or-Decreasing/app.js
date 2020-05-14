@@ -15,6 +15,7 @@ function check(arr) {
 	}
 }
 
-show(check([1, 2, 3, 4, 5]));
-show(check([5, 4, 3, 2, 1]));
-show(check([1, 2, 2, 4, 5]));
+show(check([1, 2, 3, 4, 5])); 					// increasing
+show(check([6, 5, 4, 3, 2, 1])); 				// decreasing
+show(check([1, 2, 2, 4, 5, 6, 7])); 		// neither
+show(check([60, 50, 40, 30, 20, 10])); 	// decreasing

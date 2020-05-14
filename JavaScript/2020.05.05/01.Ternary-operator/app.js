@@ -21,4 +21,4 @@
 show(checkDays(2));   // "Today is Tuesday"
 show(checkDays(8));   // "error"
 show(checkDays(5));   // "Today is Friday"
-show(checkDays(-5));  // "error"
+show(checkDays(-6));  // "error"

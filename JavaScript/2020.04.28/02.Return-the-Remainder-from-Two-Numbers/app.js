@@ -10,4 +10,4 @@ show(remainder(15, 4)); 	// ➞ 3
 
 show(remainder(-9, 45)); 	// ➞ -9
 
-show(remainder(10, 10)); 	// ➞ 0
+show(remainder(20, 20)); 	// ➞ 0
