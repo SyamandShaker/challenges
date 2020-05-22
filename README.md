@@ -1,2 +1,2 @@
 # challenges
-My challenges in the classe
+All challenges I've done in the classe with PowerCoders
