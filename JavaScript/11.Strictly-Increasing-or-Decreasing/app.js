@@ -1,4 +1,4 @@
-// JS Conditions (suite)
+// JS Conditions (suite) -----> 2020.05.05
 // edabit - Strictly Increasing or Decreasing
 function check(arr) {
 

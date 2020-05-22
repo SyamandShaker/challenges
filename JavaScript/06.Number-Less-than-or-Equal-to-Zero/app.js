@@ -1,4 +1,4 @@
-// JS Conditions
+// JS Conditions ----> 2020.04.30
 /* Is the Number Less than or Equal to Zero ?*/
 let num = 0;
 function lessThanOrEqualToZero(num) {

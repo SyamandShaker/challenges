@@ -1,4 +1,4 @@
-// JS Loops
+// JS Loops -----> 2020.05.05
 // Count genders
 /* Create an array containing 6 persons, girls and boys. Each person should have 2 keys, name and gender.*/ 
 let countGenders = [

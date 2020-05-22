@@ -1,4 +1,4 @@
-// JS Conditions
+// JS Conditions ----> 2020.04.30
 /* Is the Number Even or Odd ? */ 
 let num = 0;
 function isEvenOrOdd(num) {

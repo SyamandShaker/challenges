@@ -1,4 +1,4 @@
-// JS Conditions
+// JS Conditions ----> 2020.04.30
 /* Is the Word Singular or Plural? */
 function isPlural(word) {
   

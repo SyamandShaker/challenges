@@ -1,4 +1,4 @@
-// JS Conditions (suite)
+// JS Conditions (suite) -----> 2020.05.05
 /* Using the ternary operator create a condition who checks if today is Tuesday*/function checkDays(day) {
 
   let weekday = new Array(7);

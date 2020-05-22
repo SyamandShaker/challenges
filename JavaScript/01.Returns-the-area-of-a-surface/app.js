@@ -1,3 +1,4 @@
+// -----> 2020.04.28
 // function who returns the area of a surface in m2
 function calcSurface(length, width) {
 
